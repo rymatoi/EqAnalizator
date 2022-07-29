@@ -1,0 +1,17 @@
+    <m:nary>
+      <m:naryPr>
+        <m:chr m:val="&#8749;"/>
+        <m:limLoc m:val="undOvr"/>
+        <m:ctrlPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="Times New Roman"/>
+            <w:i/>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </m:ctrlPr>
+      </m:naryPr>
+      <m:sub/>
+      <m:sup/>
+      <m:e/>
+    </m:nary>

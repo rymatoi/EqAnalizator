@@ -1,0 +1,32 @@
+<m:d>
+    <m:dPr>
+        <m:begChr/>
+        <m:endChr/>
+        <m:ctrlPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+          </w:rPr>
+        </m:ctrlPr>
+      </m:dPr>
+    <m:e>
+        <m:m>
+          <m:mPr>
+            <m:mcs>
+              <m:mc>
+                <m:mcPr>
+                  <m:count/>
+                  <m:mcJc/>
+                </m:mcPr>
+              </m:mc>
+            </m:mcs>
+            <m:ctrlPr>
+              <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                <w:i/>
+              </w:rPr>
+            </m:ctrlPr>
+          </m:mPr>
+          <m:mr/>
+        </m:m>
+    </m:e>
+</m:d>

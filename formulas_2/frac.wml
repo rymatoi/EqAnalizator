@@ -1,0 +1,13 @@
+
+    <m:f>
+      <m:fPr>
+        <m:ctrlPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:i/>
+          </w:rPr>
+        </m:ctrlPr>
+      </m:fPr>
+      <m:num/>
+      <m:den/>
+    </m:f>

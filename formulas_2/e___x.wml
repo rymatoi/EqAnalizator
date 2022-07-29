@@ -1,0 +1,13 @@
+<m:sSubSup>
+      <m:sSubSupPr>
+        <m:ctrlPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:i/>
+          </w:rPr>
+        </m:ctrlPr>
+      </m:sSubSupPr>
+      <m:e/>
+      <m:sub/>
+      <m:sup/>
+    </m:sSubSup>
